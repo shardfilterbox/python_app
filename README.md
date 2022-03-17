@@ -1,6 +1,6 @@
 README.md
 
-#GitHub CI/CD with Circle CI
+#Python app in GitHub with CircleCI for CI
 - Created simmple Python/Flask webapp
 - Created tests for this app
 - Created config.yml
@@ -9,10 +9,11 @@ README.md
     - Install requirements (Flask)
 - Pushed to GitHub
 - Configured CircleCI integration
-- 
-Create a PR and see CircleCI in action
-
-
+- Tested CircleCI testing
+    - Updated Readme to trigger a successful test
+    - Edited hello.py so that it would fail test
+    - Confirmed failed in CircleCI
+    - Fixed and confirmed successful in CircleC
 
 
 
