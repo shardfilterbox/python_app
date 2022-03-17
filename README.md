@@ -1,12 +1,15 @@
 README.md
 
 #GitHub CI/CD with Circle CI
-- Created Python/Flask app
-Create tests for this app
-Add the config.yml file
-Push to GitHub
-Configure CircleCI
-Update our README with a badge
+- Created simmple Python/Flask webapp
+- Created tests for this app
+- Created config.yml
+    - Using docker image: circleci/python:3.6
+    - Create and activate virtual environment
+    - Install requirements (Flask)
+- Pushed to GitHub
+- Configured CircleCI integration
+- 
 Create a PR and see CircleCI in action
 
 
